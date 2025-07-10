@@ -1,6 +1,9 @@
 # Superstore Sales Dashboard (Tableau)
+
 **Tools**: Tableau
+
 **Data**: Superstore Sales Dataset (Kaggle)
+
 **Goal**: Create a professional dashobard to visualize KPIs such as sales and profits across regions
 
 ## Features
