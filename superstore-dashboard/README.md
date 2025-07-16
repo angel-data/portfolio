@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard (Tableau)
+# Superstore Sales Dashboard
 
 **Tools**: Tableau
 
