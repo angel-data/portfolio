@@ -4,7 +4,7 @@
 
 **Data**: Superstore Sales Dataset (Kaggle)
 
-**Goal**: Create a professional dashobard to visualize KPIs such as sales and profits across regions
+**Goal**: Create a professional dashboard to visualize KPIs such as sales and profits across regions
 
 ## Dashboard Screenshot
 ![Dashboard Screenshot](superstore_dashboard.jpg)
